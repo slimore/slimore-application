@@ -1,0 +1,15 @@
+{
+    "name": "slimore/slimore-application",
+    "description": "Slimore MVC single module application template.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pandao",
+            "email": "pandao@vip.qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "slimore/slimore": "*"
+    }
+}

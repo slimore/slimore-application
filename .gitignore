@@ -1,2 +1,5 @@
-/cache/
-/config/development/
+*.bat
+*.sh
+vendor/
+backup/
+composer.lock
