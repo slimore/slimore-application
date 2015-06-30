@@ -2,23 +2,13 @@
 
 [Slimore](https://github.com/slimore/slimore) MVC single module application template.
 
-## Install
+## Usage
 
-`composer.json` :
-
-```json
-{
-	"require" : {
-		"slimore/slimore-application" : "*"
-	}
-}
-```
-
-composer install :
-
-```shell
-$ composer install
-```
+	$ git clone https://github.com/slimore/slimore-application.git
+	# rename
+	$ mv ./slimore-application ./your-project-name
+	$ cd ./your-project-name
+	$ composer install
 
 ## Directory structure
 
